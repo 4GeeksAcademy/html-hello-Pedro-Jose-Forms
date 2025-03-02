@@ -13,18 +13,21 @@
 
 }
 
-#redText{
+#redText {
     border-radius: 15px;
     margin: 15px;
 }
-body{
+
+body {
     border: 2px solid black;
     border-radius: 15px;
 }
-nav{
+
+nav {
     border-bottom: 2px solid black;
     background-color: rgb(186, 186, 186);
 }
-.buttons2{
-  margin-top: 5px;
+
+.buttons2 {
+    margin-top: 5px;
 }
